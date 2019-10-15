@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace FondOfSpryker\Client\DownloadAreaPermission\Plugin\Permission;
+namespace FondOfSpryker\Shared\DownloadAreaPermission\Plugin\Permission;
 
 use Spryker\Shared\PermissionExtension\Dependency\Plugin\PermissionPluginInterface;
 
